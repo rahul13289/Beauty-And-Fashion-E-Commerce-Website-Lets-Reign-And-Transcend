@@ -1,0 +1,19 @@
+body{
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+h2{
+    color: yellow;
+}
+.header{
+    color: red;
+}
+.para,li,pre{
+    color: rgb(241, 244, 245);
+    font-size: large;
+}
