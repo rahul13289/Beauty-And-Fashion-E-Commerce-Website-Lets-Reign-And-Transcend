@@ -1,5 +1,7 @@
 # BEAUTY AND FASHION E-COMMERCE WEBSITE LETS REIGN AND TRANSCEND 
 
+Find the sample front end hosted website: https://rahul-tech-solutions13.on.drv.tw/beautyCUMfashionBYrahul/
+
 In the fast-paced digital age, beauty and fashion e-commerce websites have revolutionized the way people shop for clothing, accessories, cosmetics, and personal care products. These online platforms offer a convenient and accessible way for customers to explore a wide range of products, discover the latest trends, and make purchases from the comfort of their own homes. With just a few clicks, shoppers can browse through an extensive catalog, access detailed product information, and have their desired items delivered to their doorstep.
 
 Beauty and fashion e-commerce websites serve as virtual marketplaces where retailers and brands can showcase their collections and connect with a global audience. They have become hubs for fashion enthusiasts, beauty aficionados, and anyone seeking to enhance their personal style. Whether it's the latest fashion apparel, luxury skincare products, or trendy accessories, these websites provide an immersive and engaging shopping experience.
@@ -13,3 +15,7 @@ Beauty and fashion e-commerce websites also offer a platform for emerging design
 To ensure a seamless shopping experience, e-commerce websites prioritize user-friendly interfaces, mobile responsiveness, and secure payment systems. Customers can create accounts, save their preferences, and track their orders with ease. Additionally, these websites often provide convenient shipping options, hassle-free returns, and responsive customer support, further enhancing customer satisfaction.
 
 In conclusion, beauty and fashion e-commerce websites have transformed the way people shop for beauty and fashion products. They offer a convenient and accessible platform for customers to explore a wide range of options, stay updated on the latest trends, and make purchases with confidence. With their extensive product catalogs, personalized recommendations, and user-friendly interfaces, these websites have become indispensable tools for fashion and beauty enthusiasts worldwide.
+
+
+Devloped by Rahul & Vadepeer
+
