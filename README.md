@@ -2,6 +2,9 @@
 
 Find the sample front end hosted website: https://rahul-tech-solutions13.on.drv.tw/beautyCUMfashionBYrahul/
 
+![image](https://github.com/rahul13289/Beauty-And-Fashion-E-Commerce-Website-Lets-Reign-And-Transcend/assets/97829880/9d5f7c77-d46b-4fbc-badc-5077a060834b)
+
+
 In the fast-paced digital age, beauty and fashion e-commerce websites have revolutionized the way people shop for clothing, accessories, cosmetics, and personal care products. These online platforms offer a convenient and accessible way for customers to explore a wide range of products, discover the latest trends, and make purchases from the comfort of their own homes. With just a few clicks, shoppers can browse through an extensive catalog, access detailed product information, and have their desired items delivered to their doorstep.
 
 Beauty and fashion e-commerce websites serve as virtual marketplaces where retailers and brands can showcase their collections and connect with a global audience. They have become hubs for fashion enthusiasts, beauty aficionados, and anyone seeking to enhance their personal style. Whether it's the latest fashion apparel, luxury skincare products, or trendy accessories, these websites provide an immersive and engaging shopping experience.
